@@ -49,7 +49,7 @@ delete(id)
 Deletes an item from the mock API by ID.
 
 api.delete(1);
+```
 
 License
 FabricateAPI is released under the MIT License.
-```
