@@ -1,0 +1,15 @@
+{
+  "name": "FabricateAPI",
+  "version": "1.0.0",
+  "description": "A mock API for testing purposes",
+  "main": "script.js",
+  "dependencies": {},
+  "keywords": [
+    "mockt",
+    "mock api",
+    "api",
+    "testing"
+  ],
+  "author": "Niborium",
+  "license": "MIT"
+}
