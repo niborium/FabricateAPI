@@ -6,14 +6,14 @@ FabricateAPI is a mock API that can be used for testing purposes. It mimics the 
 
 To install FabricateAPI, run the following command in your project directory:
 
-`npm install fabricate-api`
+`npm install fabricateapi`
 
 ## Usage
 
 To use FabricateAPI in your project, you need to import it into your code. You can do this using the `import` statement:
 
 ```javascript
-import FabricateAPI from 'fabricate-api';
+import FabricateAPI from 'fabricateapi';
 
 const api = new FabricateAPI();
 

@@ -1,5 +1,5 @@
 {
-  "name": "FabricateAPI",
+  "name": "fabricateapi",
   "version": "1.0.0",
   "description": "A mock API for testing purposes",
   "main": "script.js",
