@@ -1,8 +1,9 @@
 {
   "name": "fabricateapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mock API for testing purposes",
   "main": "script.js",
+  "module": "script.js",
   "dependencies": {},
   "keywords": [
     "mockt",
